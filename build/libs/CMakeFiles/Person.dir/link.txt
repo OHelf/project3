@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared -Wl,-soname,libPerson.so -o libPerson.so CMakeFiles/Person.dir/Person.cpp.o 

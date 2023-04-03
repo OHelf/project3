@@ -1,0 +1,8 @@
+/home/owen/Documents/project3/build/CMakeFiles/my_project.dir
+/home/owen/Documents/project3/build/CMakeFiles/edit_cache.dir
+/home/owen/Documents/project3/build/CMakeFiles/rebuild_cache.dir
+/home/owen/Documents/project3/build/libs/CMakeFiles/Person.dir
+/home/owen/Documents/project3/build/libs/CMakeFiles/edit_cache.dir
+/home/owen/Documents/project3/build/libs/CMakeFiles/rebuild_cache.dir
+/home/owen/Documents/project3/build/libs/include/CMakeFiles/edit_cache.dir
+/home/owen/Documents/project3/build/libs/include/CMakeFiles/rebuild_cache.dir

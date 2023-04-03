@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/my_project.dir/main.cpp.o -o bin/my_project  -Wl,-rpath,/home/owen/Documents/project3/build/libs libs/libPerson.so 
